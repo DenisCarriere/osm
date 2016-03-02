@@ -68,17 +68,17 @@ Using QGIS or ArcMap, you can connect to the PostgreSQL server or add the shapef
 
 Using the Poland.osm.pbf (789MB) data downloaded from GeoFabrik.
 
-**Computer Specs**
+### Computer Specs
 
 - Ubuntu 15.10
 - Memory: 7.8 GiB
 - Processor: Intel® Core™2 Quad CPU Q8400 @ 2.66GHz × 4 
 - OS type: 64-bit
 
-**Import**
+### Import
 
 Importing OSM data (22m12s)
 
-**Export**
+### Export
 
 Exporting to Shapefiles (9m27s)
