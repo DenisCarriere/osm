@@ -59,3 +59,11 @@ Running with a python script
 ```python
 python exportShapefile.py
 ```
+
+## Benchmarks
+
+Using the Poland.osm.pbf (789MB) data downloaded from GeoFabrik.
+
+- **Imposm3**: Importing OSM data (22m12)
+
+- **Exporting Shapefiles**: Exporting to Shapefiles (??)
