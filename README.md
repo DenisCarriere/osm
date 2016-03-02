@@ -19,10 +19,11 @@ ESRI World (Layer Packages)
 - [World Water Bodies](http://www.arcgis.com/home/item.html?id=e750071279bf450cbd510454a80f2e63)
 - [World Major Rivers](https://www.arcgis.com/home/item.html?id=44e8358cf83a4b43bc863646cd695945)
 - [World Roads](http://www.arcgis.com/home/item.html?id=83535020ce154bd5a498957c159e3a99)
-- [World Topography and Bathymetry](http://www.arcgis.com/home/item.html?id=88a7995ddb0b4f21a9497f3dcf6f9aec)- [North America Interstate Highways](https://www.arcgis.com/home/item.html?id=00b5b0d2a6f548e6813bcf9536249a03)
+- [World Topography and Bathymetry](http://www.arcgis.com/home/item.html?id=88a7995ddb0b4f21a9497f3dcf6f9aec)
 
 **North America**
 
+- [North America Interstate Highways](https://www.arcgis.com/home/item.html?id=00b5b0d2a6f548e6813bcf9536249a03)
 - [North America Major Roads](http://www.arcgis.com/home/item.html?id=06e71cbbefab401fb99b6c2bb5139487)
 - [World Continents](https://www.arcgis.com/home/item.html?id=a3cb207855b348a297ab85261743351d)
 - [North America Water Polygons](http://www.arcgis.com/home/item.html?id=1630b19fafbe4c9589306d967e418088)
