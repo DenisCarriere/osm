@@ -1,12 +1,12 @@
 ## Download Global datasets
 
-OpenStreetMap Data (Shapefiles WGS84)
+### OpenStreetMap Data (Shapefiles WGS84)
 
 - Land Polygon - http://openstreetmapdata.com/data/land-polygons
 - Water Polygon - http://openstreetmapdata.com/data/water-polygons
 - Coastlines - http://openstreetmapdata.com/data/coastlines
 
-ESRI World (Layer Packages)
+### ESRI World (Layer Packages)
 
 **World**
 
