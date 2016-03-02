@@ -60,6 +60,10 @@ Running with a python script
 python exportShapefile.py
 ```
 
+## Preview Data
+
+Using QGIS or ArcMap, you can connect to the PostgreSQL server or add the shapefiles directly.
+
 ## Benchmarks
 
 Using the Poland.osm.pbf (789MB) data downloaded from GeoFabrik.
